@@ -37,7 +37,7 @@
   <a href="www.linkedin.com/in/leandrosilva93" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="wa.me/5535992923852" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=5535992623852&text&type=phone_number&app_absent=0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
   <a href="lasmg93@outlook.com" target="_blank">
