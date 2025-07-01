@@ -10,9 +10,9 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por criar soluç
 
 **Linguagens:** Python, JavaScript, TypeScript, Java, SQL
 
-**Frameworks/Bibliotecas:** React, Node.js, Spring Boot, Express.js
+**Frameworks/Bibliotecas:** React, Node.js, Spring Boot, Express.js, Angular
 
-**Bancos de Dados:** PostgreSQL, MySQL, MongoDB
+**Bancos de Dados:** SQLite, PostgreSQL, MySQL, MongoDB
 
 **Ferramentas:** Git, Docker, VS Code
 
