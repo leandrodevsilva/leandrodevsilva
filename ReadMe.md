@@ -8,7 +8,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por criar soluç
 
 ### Minhas Habilidades 🛠️
 
-**Linguagens:** Python, JavaScript, TypeScript, Java, SQL
+**Linguagens:** Python, JavaScript, TypeScript, Java, SQL, C++, C#
 
 **Frameworks/Bibliotecas:** React, Node.js, Spring Boot, Express.js, Angular
 
